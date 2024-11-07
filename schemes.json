@@ -1,0 +1,22 @@
+[
+    {
+        "scheme_name": "PradhanMantri Shishu Suraksha Yojana",
+        "category": "child support",
+        "eligibility": "families with children",
+        "location": "nationwide",
+        "relevance": 10,
+        "benefits": 1000,
+        "date_added": "2024-01-01",
+        "tags": ["child support", "financial aid", "families", "nationwide"]
+    },
+    {
+        "scheme_name": "PradhanMantri Aayushman Bharat Yojana",
+        "category": "healthcare",
+        "eligibility": "low-income families",
+        "location": "nationwide",
+        "relevance": 8,
+        "benefits": 1200,
+        "date_added": "2023-12-15",
+        "tags": ["healthcare", "low-income", "poverty line", "nationwide"]
+    }
+]

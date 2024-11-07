@@ -1,0 +1,152 @@
+[
+    {
+        "scheme_name": "PradhanMantri Shishu Suraksha Yojana - Child Support Scheme",
+        "description": "Provides financial assistance to families with children",
+        "tags": ["child support", "financial aid", "families", "nationwide"]
+    },
+    {
+        "scheme_name": "PradhanMantri Aayushman Bharat Yojana - Healthcare Benefits",
+        "description": "Offers healthcare benefits for families below the poverty line",
+        "tags": ["healthcare", "low-income", "poverty line", "nationwide"]
+    },
+    {
+        "scheme_name": "PradhanMantri Kisan Kalyan Yojana - Agricultural Assistance",
+        "description": "Supports small farmers with subsidies and training",
+        "tags": ["agriculture", "small farmers", "subsidies", "training", "rural"]
+    },
+    {
+        "scheme_name": "Mahatma Gandhi Gramin Rozgar Yojana - Rural Employment Scheme",
+        "description": "Ensures employment opportunities for rural families through wage work",
+        "tags": ["employment", "rural", "wage work", "financial aid"]
+    },
+    {
+        "scheme_name": "Swachh Bharat Abhiyan - Clean India Mission",
+        "description": "Aims to promote cleanliness and sanitation across urban and rural areas",
+        "tags": ["sanitation", "cleanliness", "urban", "rural", "public health"]
+    },
+    {
+        "scheme_name": "PradhanMantri Jan Dhan Yojana - Financial Inclusion",
+        "description": "Facilitates financial inclusion by providing banking services to underserved regions",
+        "tags": ["banking", "financial inclusion", "low-income", "nationwide"]
+    },
+    {
+        "scheme_name": "Atal Pension Yojana - Pension Scheme",
+        "description": "Provides pension benefits for workers in the unorganized sector",
+        "tags": ["pension", "unorganized sector", "retirement", "financial security"]
+    },
+    {
+        "scheme_name": "Beti Bachao Beti Padhao - Girl Child Empowerment",
+        "description": "Supports girl child education and welfare to improve gender equality",
+        "tags": ["girl child", "education", "gender equality", "empowerment", "rural", "urban"]
+    },
+    {
+        "scheme_name": "Deendayal Antyodaya Yojana - Livelihood Scheme",
+        "description": "Offers skill training and financial support to improve livelihoods for the rural poor",
+        "tags": ["skill training", "livelihood", "financial aid", "rural"]
+    },
+    {
+        "scheme_name": "Stand-Up India - Entrepreneurial Support",
+        "description": "Promotes entrepreneurship among women and marginalized communities",
+        "tags": ["entrepreneurship", "women", "marginalized groups", "financial aid", "loans"]
+    },
+    {
+        "scheme_name": "PradhanMantri Ujjwala Yojana - LPG Connection Scheme",
+        "description": "Provides LPG connections to BPL households to reduce indoor pollution",
+        "tags": ["LPG connection", "BPL households", "pollution reduction", "health improvement"]
+    },
+    {
+        "scheme_name": "PradhanMantri Mudra Yojana - Small Business Loans",
+        "description": "Offers loans for small businesses to stimulate entrepreneurship",
+        "tags": ["small business", "loans", "entrepreneurship", "financial aid"]
+    },
+    {
+        "scheme_name": "Ayushman Bharat Digital Mission - Health Record Management",
+        "description": "Enables digital health records for all citizens to streamline healthcare access",
+        "tags": ["healthcare", "digital records", "technology", "accessibility", "nationwide"]
+    },
+    {
+        "scheme_name": "Rashtriya Krishi Vikas Yojana - Agricultural Development",
+        "description": "Supports innovation in agriculture to enhance productivity",
+        "tags": ["agriculture", "innovation", "productivity", "rural", "modernization"]
+    },
+    {
+        "scheme_name": "Sarva Shiksha Abhiyan - Universal Education",
+        "description": "Aims for universal access to education for children up to 14 years of age",
+        "tags": ["education", "children", "universal access", "nationwide"]
+    },
+    {
+        "scheme_name": "Mission Indradhanush - Immunization Program",
+        "description": "Provides vaccines to all children to increase immunization coverage",
+        "tags": ["immunization", "vaccination", "children", "public health", "nationwide"]
+    },
+    {
+        "scheme_name": "PradhanMantri Matru Vandana Yojana - Maternity Benefit Program",
+        "description": "Offers financial assistance to pregnant and lactating mothers for health and nutrition",
+        "tags": ["maternity", "financial aid", "pregnant women", "nutrition", "healthcare"]
+    },
+    {
+        "scheme_name": "Jeevan Jyoti Bima Yojana - Life Insurance",
+        "description": "Provides affordable life insurance to all citizens to secure their future",
+        "tags": ["insurance", "life insurance", "financial security", "affordable", "nationwide"]
+    },
+    {
+        "scheme_name": "Atal Mission for Rejuvenation and Urban Transformation - Urban Development",
+        "description": "Revitalizes urban areas through infrastructure development and beautification",
+        "tags": ["urban development", "infrastructure", "beautification", "urban"]
+    },
+    {
+        "scheme_name": "National Social Assistance Programme - Social Security",
+        "description": "Supports the elderly, disabled, and widows with financial assistance",
+        "tags": ["social security", "elderly", "disabled", "widows", "financial aid"]
+    },
+    {
+        "scheme_name": "PradhanMantri Fasal Bima Yojana - Crop Insurance",
+        "description": "Offers crop insurance to farmers to protect against crop losses",
+        "tags": ["crop insurance", "farmers", "financial aid", "agriculture"]
+    },
+    {
+        "scheme_name": "PradhanMantri Gram Sadak Yojana - Rural Roads Development",
+        "description": "Improves rural road connectivity to facilitate easier transportation",
+        "tags": ["infrastructure", "road development", "rural", "transportation"]
+    },
+    {
+        "scheme_name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana - Skill Development",
+        "description": "Trains rural youth to enhance employability and livelihood options",
+        "tags": ["skill development", "rural youth", "employability", "training"]
+    },
+    {
+        "scheme_name": "Digital India Programme - Technology Access",
+        "description": "Promotes access to digital infrastructure and digital literacy across India",
+        "tags": ["technology", "digital literacy", "infrastructure", "nationwide"]
+    },
+    {
+        "scheme_name": "Skill India Mission - Vocational Training",
+        "description": "Provides vocational training for skill development and employment",
+        "tags": ["vocational training", "skill development", "employment", "nationwide"]
+    },
+    {
+        "scheme_name": "PradhanMantri Vaya Vandana Yojana - Senior Citizens Pension",
+        "description": "Ensures a steady pension for senior citizens in their post-retirement years",
+        "tags": ["pension", "senior citizens", "retirement", "financial security"]
+    },
+    {
+        "scheme_name": "Sukanya Samriddhi Yojana - Savings Scheme for Girl Child",
+        "description": "Promotes savings for the girl child with high-interest returns",
+        "tags": ["savings", "girl child", "high-interest", "financial security"]
+    },
+    {
+        "scheme_name": "Rashtriya Bal Swasthya Karyakram - Child Health Program",
+        "description": "Focuses on early detection of diseases in children through health screenings",
+        "tags": ["child health", "health screening", "disease prevention", "nationwide"]
+    },
+    {
+        "scheme_name": "National Rural Livelihood Mission - Women Empowerment",
+        "description": "Encourages women in rural areas to form self-help groups for financial independence",
+        "tags": ["women empowerment", "rural", "self-help groups", "financial independence"]
+    },
+    {
+        "scheme_name": "National Urban Livelihood Mission - Urban Poor Support",
+        "description": "Supports urban poor with skill training, self-employment, and housing benefits",
+        "tags": ["urban poor", "skill training", "self-employment", "housing", "urban"]
+    }
+]
